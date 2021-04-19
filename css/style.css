@@ -104,7 +104,7 @@ section a, form input[type="submit"]{
     border: solid .1rem transparent;
     margin: .8rem auto 0;
     width: 30rem;
-    background-color: #122657;
+    background-color: #4772dd;
     color: #fff;
     border-radius: .3rem;
     font-size: 1.6rem;
@@ -133,7 +133,7 @@ section a, form input[type="submit"]{
 }
 strong{
     font-size: 50px;
-    color: #5a0e0e;
+    color: #f3eded;
 }
 /* pied de page */
 footer{
