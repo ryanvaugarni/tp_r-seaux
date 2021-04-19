@@ -4,6 +4,7 @@ html{
     font-size: 62.5%;
     margin: 0;
     scroll-behavior: smooth;
+    background: url(../asset/sécurité3.jpeg)no-repeat fixed center center / cover;
 }
 body{
     font: 1.6rem 'Dosis', sans-serif;
@@ -15,7 +16,9 @@ h1,h2,h3,p,ul,ol{
     padding: 0;
     list-style: none;
     text-align: center;
+    
 }
+
 a{
     text-decoration: none;
     color: #222;
@@ -135,7 +138,6 @@ strong{
 /* pied de page */
 footer{
     text-align: center;
-    background: linear-gradient(grey, white);
     padding: 1rem;
   
 }
